@@ -16,6 +16,7 @@
 		60A6549B2BC0028F00B61940 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A6549A2BC0028F00B61940 /* video_playerTests.swift */; };
 		60A654A52BC0028F00B61940 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A654A42BC0028F00B61940 /* video_playerUITests.swift */; };
 		60A654A72BC0028F00B61940 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A654A62BC0028F00B61940 /* video_playerUITestsLaunchTests.swift */; };
+		60A654B42BC0056600B61940 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 60A654B32BC0056600B61940 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		60A654A02BC0028F00B61940 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A654A42BC0028F00B61940 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		60A654A62BC0028F00B61940 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		60A654B32BC0056600B61940 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				60A654872BC0028E00B61940 /* ViewController.swift */,
 				60A654892BC0028E00B61940 /* Main.storyboard */,
 				60A6548C2BC0028F00B61940 /* Assets.xcassets */,
+				60A654B32BC0056600B61940 /* test.mp4 */,
 				60A6548E2BC0028F00B61940 /* LaunchScreen.storyboard */,
 				60A654912BC0028F00B61940 /* Info.plist */,
 			);
@@ -234,6 +237,7 @@
 				60A6548D2BC0028F00B61940 /* Assets.xcassets in Resources */,
 				60A654902BC0028F00B61940 /* Base in Resources */,
 				60A6548B2BC0028E00B61940 /* Base in Resources */,
+				60A654B42BC0056600B61940 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
