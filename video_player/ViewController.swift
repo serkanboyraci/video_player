@@ -23,9 +23,9 @@ class ViewController: UIViewController {
     }
     
     private func playVideo() { // you must add this func to use AVPlayer
-     
+        // with guard let try to do first part not to it and second part.
         guard let path = Bundle.main.path(forResource: "test", ofType: "mp4") else {
-            debugPrint("Video not Found")
+            debugPrint("test.mp4 not found")
             
             return
         }
